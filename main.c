@@ -1,3 +1,7 @@
+/*Primeiro Trabalho Prático de Estruturas de Dados I - Criar um programa de gerenciamento de farmacia,
+incluindo manipulação de arquivos de clientes, vendedores fornecedores e produtos, gerar notas fiscais
+e historicos necessários*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
